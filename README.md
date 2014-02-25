@@ -3,9 +3,10 @@ Introduction
 
 Introduction to the Computer Programming Club at the University of Arizona.
 
-Our primary activity is simply building software as a team, but we have three primary objectives:
-* Learn and facilitate learning.
-* Gain practical experience developing applications collectively.
-* Network with like-minded and intelligent individuals.
+Our main activity is building software as a team.
+We also have three primary objectives:
+* To learn and facilitate learning.
+* To gain practical experience developing applications.
+* To network with like-minded and intelligent individuals.
 
 This is our github organization page where we will host our repositories.
